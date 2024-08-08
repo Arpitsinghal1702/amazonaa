@@ -1,6 +1,6 @@
 # MERN AMAZONA
 
-![amazona](/frontend/public/images/amazona.jpg)
+![amazona](https://github.com/user-attachments/assets/d98325e0-58be-4215-a41d-88f084ca9af6)
 
 ## Demo Website
 
